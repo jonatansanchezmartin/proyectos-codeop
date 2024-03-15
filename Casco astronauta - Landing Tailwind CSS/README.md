@@ -1,3 +1,5 @@
+# Proyecto de Tailwind CSS para el curso de Front End de CodeOp Coding School.
+
 # Objectives
 - [ ] Creeu un document HTML vàlid amb una sintaxi vàlida. Només un body, un head, etc.
 - [ ] Utilitzar correctament els elementsHTML: h1-h6, button, a, nav, ul, li. fan un bon ús de l'HTML semàntic. 
@@ -11,21 +13,9 @@ Escull un dels següents dissenys de pàgina web per composar-lo fent servir els
 
 | **Títol**                        | **Enllaç**                                               |
 | -------------------------------- | -------------------------------------------------------- |
-| Travel Agency Website            | https://www.figma.com/community/file/1054354333817536175 |
-| Furniture Landing Page           | https://www.figma.com/community/file/1061732519182077733 |
-| Creative Agency UI Kit           | https://www.figma.com/community/file/1062442619500586015 |
-| iBuy - ecommerce website         | https://www.figma.com/community/file/1061279717553788561 |
-| Finance Website Concept          | https://www.figma.com/community/file/1060098483912933594 |
-| Agency Landing Page              | https://www.figma.com/community/file/1060934768189771297 |
-| Digital Agency Website           | https://www.figma.com/community/file/1058842196634115002 |
 | Product Landing Page             | https://www.figma.com/community/file/1059550415816505412 |
-| Agency Web - Landing page design | https://www.figma.com/community/file/1058767686059595687 |
-| Tours & Adventures Landing Page  | https://www.figma.com/community/file/1047352358177936736 |
-| Gaming Platform                  | https://www.figma.com/community/file/1058773912152023976 |
-| Simple Agency Web                | https://www.figma.com/community/file/1058777711359033259 |
-| Creative Freelance Portfolio     | https://www.figma.com/community/file/1055585500471619711 |
-| Travel Website Landing Page      | https://www.figma.com/community/file/993910904620677970  |
-| Task manager web design          | https://www.figma.com/community/file/1017688084974860884 |
+| -------------------------------- | -------------------------------------------------------- |
+
 
 ## Configuració
 
