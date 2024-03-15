@@ -14,7 +14,6 @@ Escull un dels següents dissenys de pàgina web per composar-lo fent servir els
 | **Títol**                        | **Enllaç**                                               |
 | -------------------------------- | -------------------------------------------------------- |
 | Product Landing Page             | https://www.figma.com/community/file/1059550415816505412 |
-| -------------------------------- | -------------------------------------------------------- |
 
 
 ## Configuració
